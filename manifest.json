@@ -1,0 +1,10 @@
+{
+  "name": "Сборка — конструктор иллюстраций",
+  "id": "illustration-composer-local",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": { "allowedDomains": ["http://localhost:4174"], "reasoning": "Локальный смысловой подбор темы на компьютере пользователя. Внешние сервисы не получают запросы или SVG." }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "illustration-composer",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Figma plugin for composing original vector illustration assets",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.cjs",
+    "check": "node --check src/core.js && node --check src/plugin.js && node --check src/message-bridge.js && node --check src/ui.js",
+    "preview": "node scripts/preview.mjs",
+    "semantic": "node server/index.mjs",
+    "test:semantic": "node scripts/check-semantic.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "3.8.1"
+  }
+}

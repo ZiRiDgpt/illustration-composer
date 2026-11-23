@@ -1,0 +1,5 @@
+[
+  {"name":"Учёба без отвлечений","file":"01-study.svg","mode":"theme","selector":"rules","text":"Учёба без отвлечений","size":"L","width":1200,"height":630,"layout":"compact","background":true,"palette":"Сирень"},
+  {"name":"Финансовая грамотность","file":"02-finance.svg","mode":"theme","selector":"rules","text":"Финансовая грамотность","size":"S","width":1080,"height":1080,"layout":"offset","background":true,"palette":"Персик"},
+  {"name":"Связь и совместная работа","file":"03-connection.svg","mode":"objects","text":"Телефон, наушники, пазл","size":"L","width":1080,"height":1440,"layout":"headline","background":false,"palette":"Мята"}
+]

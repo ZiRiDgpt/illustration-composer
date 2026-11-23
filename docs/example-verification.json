@@ -1,0 +1,56 @@
+[
+  {
+    "file": "01-study.svg",
+    "width": 1200,
+    "height": 630,
+    "bytes": 160369,
+    "paths": 317,
+    "groups": 12,
+    "images": 0,
+    "colors": [
+      "#181817",
+      "#7864D7",
+      "#D7CDF5",
+      "#F9A3AA",
+      "#F9ECB0",
+      "#FFE3E1"
+    ],
+    "xml_valid": true,
+    "sha256": "64589cd3036868bce88bcd0fa7e1baed9fae3c4ce88364c71b0db2b19368c05e"
+  },
+  {
+    "file": "02-finance.svg",
+    "width": 1080,
+    "height": 1080,
+    "bytes": 202390,
+    "paths": 418,
+    "groups": 12,
+    "images": 0,
+    "colors": [
+      "#181817",
+      "#D27532",
+      "#F9ECB0",
+      "#FDD7B9"
+    ],
+    "xml_valid": true,
+    "sha256": "3def670049bcee238f44270386ecbe7a0c7df77d46d158d1acadd11cbce143c0"
+  },
+  {
+    "file": "03-connection.svg",
+    "width": 1080,
+    "height": 1440,
+    "bytes": 150095,
+    "paths": 296,
+    "groups": 7,
+    "images": 0,
+    "colors": [
+      "#181817",
+      "#5ABEBE",
+      "#6D7BFC",
+      "#BEEBEB",
+      "#FFD4F2"
+    ],
+    "xml_valid": true,
+    "sha256": "f7dba467613a5350935cfcef8cceaac1cfcb5e31120b28df65569777fa03cc0e"
+  }
+]

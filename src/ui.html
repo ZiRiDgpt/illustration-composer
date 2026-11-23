@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Сборка — конструктор иллюстраций</title>
+  <style>/* STYLES */</style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-symbol" aria-hidden="true">◈</span><div><strong>Сборка</strong><span>Конструктор иллюстраций</span></div></div>
+    <div class="header-actions"><span class="source-badge">Из исходных векторов</span><button id="compact" class="quiet">Компактно</button><button id="export" class="dark" disabled>Скачать SVG</button></div>
+  </header>
+  <div id="preview-note" hidden>Просмотр интерфейса. Для работы с исходными объектами запустите плагин в Figma.</div>
+  <main class="workspace">
+    <aside class="library-panel">
+      <div class="panel-heading"><h2>Библиотека</h2><span id="count" class="count">0</span></div>
+      <p class="muted small">Готовые объекты из вашего файла</p>
+      <button id="scan" class="outline full">Подключить библиотеку Figma</button>
+      <button id="library-export" class="text-button full" style="margin-top:8px" disabled>Скачать библиотеку SVG + JSON</button>
+      <div class="segmented library-size" aria-label="Размер объектов"><button data-size="L" class="active" aria-pressed="true">L · подробно</button><button data-size="S" aria-pressed="false">S · просто</button></div>
+      <label class="search"><span class="sr-only">Поиск объектов</span><input id="search" type="search" placeholder="Найти объект…"></label>
+      <div class="role-filter"><button class="active" data-role="main" aria-pressed="true">Главные</button><button data-role="background" aria-pressed="false">Фоновые</button></div>
+      <div id="assets" class="assets"><div class="empty-library"><span class="empty-icon" aria-hidden="true">◇</span><strong>Всё начинается с библиотеки</strong><p>Откройте копию файла с заданием и подключите готовые объекты.</p></div></div>
+      <details class="manual-import"><summary>Импорт выделенного объекта</summary><p class="small muted">Выделите в Figma векторную группу. Назначьте ей имя, размер и состояние.</p><label>Название<select id="import-key"><option value="">Определить по имени слоя</option><option value="book">Книга</option><option value="phone">Телефон</option><option value="headphones">Наушники</option><option value="lamp">Лампа</option><option value="wallet">Кошелёк</option><option value="coin">Монета</option><option value="folder">Папка</option><option value="pen">Ручка</option><option value="puzzle">Пазл</option><option value="plant">Растение</option></select></label><div class="two-col"><label>Размер<select id="import-size"><option>L</option><option>S</option></select></label><label>Состояние<select id="import-role"><option value="main">Главный</option><option value="background">Фоновый</option></select></label></div><button id="import-selection" class="outline full">Добавить выделенное</button></details>
+    </aside>
+    <section class="editor-panel">
+      <section class="brief-panel" aria-label="Задание композиции">
+        <div class="eyebrow">ИЗ ИДЕИ В КОМПОЗИЦИЮ</div><h1>Соберите свою историю</h1>
+        <div class="mode-switch" role="group" aria-label="Способ подбора"><button class="active" data-mode="theme" aria-pressed="true">По теме</button><button data-mode="objects" aria-pressed="false">По объектам</button></div>
+        <label class="sr-only" for="prompt">Тема или объекты</label><div class="prompt-row"><input id="prompt" placeholder="Например, учёба без отвлечений" maxlength="200"><button id="generate" class="primary" disabled>Собрать</button></div>
+        <div class="prompt-footer"><label class="engine-label" id="engine-label"><span class="sr-only">Подбор темы</span><select id="theme-engine" aria-label="Подбор темы"><option value="semantic">Свободная тема · смысловой подбор</option><option value="rules">Быстрые темы · без локального модуля</option></select></label><button class="text-button" id="example">Попробовать «Учёба»</button></div><p id="mode-hint" class="small muted" style="font-size:10px;margin-top:6px">Свободная формулировка · модель работает локально</p>
+      </section>
+      <div class="canvas-heading"><div><strong id="scene-title">Ваша композиция</strong><span id="scene-size">1200 × 630</span></div><button id="variant" class="quiet" disabled>Другой вариант</button></div>
+      <div class="canvas-area" id="canvas-area"><div class="canvas-frame" id="canvas-frame"><div id="canvas-empty"><div class="empty-art" aria-hidden="true"><span>◇</span><span>◯</span><span>▱</span></div><h3>Здесь появится ваша история</h3><p>Подключите библиотеку и задайте тему.<br>Объекты соберутся в композицию автоматически.</p></div><img id="scene-image" alt="Предпросмотр собранной векторной композиции" hidden><div id="overlays" aria-label="Объекты на холсте"></div></div></div>
+      <div class="canvas-footer"><span id="selection-hint">SVG · редактируемые объекты</span><button id="refresh" class="text-button">Обновить из Figma</button></div>
+      <div id="object-toolbar" class="object-toolbar" hidden><strong id="selected-name"></strong><div class="edit-actions"><button data-action="move" data-dx="-10" data-dy="0" aria-label="Левее на 10 пикселей">Влево</button><button data-action="move" data-dx="10" data-dy="0" aria-label="Правее на 10 пикселей">Вправо</button><button data-action="move" data-dx="0" data-dy="-10" aria-label="Выше на 10 пикселей">Выше</button><button data-action="move" data-dx="0" data-dy="10" aria-label="Ниже на 10 пикселей">Ниже</button><button data-action="rotate" data-angle="-15">−15°</button><button data-action="rotate" data-angle="15">+15°</button><button data-action="duplicate">Копия</button><button data-action="delete" class="danger">Удалить</button></div></div>
+      <div id="status" role="status" aria-live="polite">Подключите библиотеку, чтобы начать.</div>
+    </section>
+    <aside class="settings-panel">
+      <h2>Композиция</h2><label>Формат<select id="format"><option value="1200x630">Горизонтальный · 1200 × 630</option><option value="1080x1080">Квадрат · 1080 × 1080</option><option value="1080x1440">Вертикальный · 1080 × 1440</option><option value="custom">Свой размер</option></select></label>
+      <div id="custom-size" class="two-col" hidden><label>Ширина<input id="width" type="number" min="240" max="4096" value="1200"></label><label>Высота<input id="height" type="number" min="240" max="4096" value="630"></label></div>
+      <label>Расположение<select id="layout"><option value="compact">Собранно</option><option value="offset">Со смещением</option><option value="headline">Место под заголовок</option></select></label>
+      <label class="check"><input id="background" type="checkbox" checked><span>Добавить фоновые объекты</span></label>
+      <div class="divider"></div><div class="panel-heading"><h2>Цветовая схема</h2><button id="palette-upload" class="text-button">Загрузить</button></div>
+      <select id="palette" aria-label="Цветовая схема"><option value="source">Исходные цвета · без заливки</option></select><div id="swatches" class="swatches"></div><p id="palette-hint" class="small muted">Палитры подключаются из исходного файла или JSON.</p><input id="palette-file" type="file" accept=".json,application/json" hidden><button id="recolor" class="outline full" disabled>Применить к композиции</button>
+      <div class="divider"></div><div class="panel-heading"><h2>Слои</h2><span id="layer-count" class="count">0</span></div><p class="small muted" id="layers-empty">Слои появятся после сборки.</p><div id="layers" class="layers"></div>
+      <div id="layer-actions" hidden><div class="two-col"><button id="layer-front" class="outline">На передний план</button><button id="layer-back" class="outline">На задний план</button></div><button id="toggle-role" class="quiet full">Главный / фоновый</button></div>
+      <div class="source-note"><strong>Форма остаётся исходной</strong><p>Все объекты копируются из библиотеки. Масштаб общий, векторы сохраняются.</p></div>
+    </aside>
+  </main>
+  <script>/* UI_SCRIPT */</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-23",
+  "environment": "Figma Desktop app-126.11.11",
+  "fileKey": "5JCRrjhDFq0q4h5vC7o7TZ",
+  "sharedAssignmentModified": false,
+  "catalogVariants": 40,
+  "freeThemeRuntime": [
+    {"text":"Начать новую главу в жизни","mainKeys":["book","pen"]},
+    {"text":"Дать идее прорасти","mainKeys":["pen","plant","book"]}
+  ],
+  "roleRoundTrip": "book main -> background -> main",
+  "layerOrder": "book front -> back -> front",
+  "paletteFile": "examples/palette-mint.json",
+  "paletteAppliedToWholeScene": true,
+  "rotationDegrees": 15,
+  "duplicateDeleteCounts": [5,6,5],
+  "dragBefore": {"x":879.50341796875,"y":215.35707092285156},
+  "dragAfter": {"x":747.77099609375,"y":106.26167297363281},
+  "dragReturned": {"x":879.50341796875,"y":215.35707092285156},
+  "secondDragAfter": {"x":998.8857421875,"y":54.80158996582031},
+  "guestViewVerified": true,
+  "guestViewNode": "5001:2",
+  "figmaPermissionsChanged": false,
+  "video": {"file":"demo/demo.mp4","seconds":91.88,"width":1160,"height":800,"audio":false,"source":"Actual Figma window capture; pauses trimmed, portions accelerated"}
+}

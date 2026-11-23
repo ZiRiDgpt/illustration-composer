@@ -1,0 +1,1548 @@
+[
+  {
+    "name": "Размер L",
+    "children": [
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": -6664.025390625,
+          "y": -2641,
+          "width": 1000,
+          "height": 1000
+        },
+        "colors": [
+          "#D7CDF5"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": -4268.59326171875,
+          "y": -2641,
+          "width": 1000,
+          "height": 1000
+        },
+        "colors": [
+          "#BEEBEB"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": -5466.30908203125,
+          "y": -2641,
+          "width": 1000,
+          "height": 1000
+        },
+        "colors": [
+          "#FDD7B9"
+        ],
+        "children": null
+      },
+      {
+        "name": "Пазлы",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3812.756591796875,
+          "y": 451.740478515625,
+          "width": 544.1632080078125,
+          "height": 313.5343322753906
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Пазлы",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3812.756591796875,
+          "y": 4475.9248046875,
+          "width": 544.1632080078125,
+          "height": 313.5343322753906
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136332",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6664.025390625,
+          "y": -1367.4302978515625,
+          "width": 1000,
+          "height": 632.83349609375
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "21:418",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6664.025390625,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#D7CDF5"
+            ]
+          },
+          {
+            "id": "21:29562",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6164.025390625,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#F9ECB0"
+            ]
+          },
+          {
+            "id": "21:29560",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6664.025390625,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#AA9BF0"
+            ]
+          },
+          {
+            "id": "21:29563",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6164.025390625,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#F9A3AA"
+            ]
+          },
+          {
+            "id": "21:29561",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6664.025390625,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#7864D7"
+            ]
+          },
+          {
+            "id": "21:29564",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6164.025390625,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FFE3E1"
+            ]
+          },
+          {
+            "id": "21:29565",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6664.025390625,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "21:29568",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -6164.025390625,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Group 2136136333",
+        "type": "GROUP",
+        "bounds": {
+          "x": -5466.30908203125,
+          "y": -1367.4302978515625,
+          "width": 1000,
+          "height": 632.83349609375
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "21:29571",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -5466.30908203125,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FDD7B9"
+            ]
+          },
+          {
+            "id": "21:29572",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4966.30908203125,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#F9ECB0"
+            ]
+          },
+          {
+            "id": "21:29573",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -5466.30908203125,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FAC896"
+            ]
+          },
+          {
+            "id": "21:29574",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4966.30908203125,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#80DADA"
+            ]
+          },
+          {
+            "id": "21:29575",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -5466.30908203125,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#D27532"
+            ]
+          },
+          {
+            "id": "21:29576",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4966.30908203125,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#BEEBEB"
+            ]
+          },
+          {
+            "id": "21:29577",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -5466.30908203125,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "21:29578",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4966.30908203125,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Group 2136136334",
+        "type": "GROUP",
+        "bounds": {
+          "x": -4268.59326171875,
+          "y": -1367.4302978515625,
+          "width": 1000,
+          "height": 632.83349609375
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "21:29580",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4268.59326171875,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#BEEBEB"
+            ]
+          },
+          {
+            "id": "21:29581",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -3768.59326171875,
+              "y": -1367.4302978515625,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FFD4F2"
+            ]
+          },
+          {
+            "id": "21:29582",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4268.59326171875,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#80DADA"
+            ]
+          },
+          {
+            "id": "21:29583",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -3768.59326171875,
+              "y": -1209.221923828125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#6D7BFC"
+            ]
+          },
+          {
+            "id": "21:29584",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4268.59326171875,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#5ABEBE"
+            ]
+          },
+          {
+            "id": "21:29585",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -3768.59326171875,
+              "y": -1051.0135498046875,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#B6C6FE"
+            ]
+          },
+          {
+            "id": "21:29586",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -4268.59326171875,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "21:29587",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -3768.59326171875,
+              "y": -892.80517578125,
+              "width": 500,
+              "height": 158.20838928222656
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": -5494.94873046875,
+          "y": 538.989990234375,
+          "width": 16.968917846679688,
+          "height": 23.600168228149414
+        },
+        "colors": [
+          "#FFFFFF"
+        ],
+        "children": null
+      },
+      {
+        "name": "Vector",
+        "type": "VECTOR",
+        "bounds": {
+          "x": -5494.94873046875,
+          "y": 4563.173828125,
+          "width": 16.968917846679688,
+          "height": 23.600168228149414
+        },
+        "colors": [
+          "#D7CDF5"
+        ],
+        "children": null
+      },
+      {
+        "name": "Книга",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6521.35595703125,
+          "y": 91.37353515625,
+          "width": 1445.892578125,
+          "height": 976.664306640625
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Книга",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6521.35595703125,
+          "y": 4115.5576171875,
+          "width": 1445.892578125,
+          "height": 976.664306640625
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Телефон",
+        "type": "GROUP",
+        "bounds": {
+          "x": -4874.4228515625,
+          "y": 342.638671875,
+          "width": 796.5315551757812,
+          "height": 461.6672058105469
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Телефон",
+        "type": "GROUP",
+        "bounds": {
+          "x": -4874.4228515625,
+          "y": 4366.82275390625,
+          "width": 796.5315551757812,
+          "height": 461.667236328125
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Наушники",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6442.97705078125,
+          "y": 1427.08837890625,
+          "width": 888.14990234375,
+          "height": 691.54150390625
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Наушники",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6442.97705078125,
+          "y": 5451.2724609375,
+          "width": 888.14990234375,
+          "height": 691.54150390625
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Лампа",
+        "type": "GROUP",
+        "bounds": {
+          "x": -5090.7705078125,
+          "y": 1062.755859375,
+          "width": 945.9432373046875,
+          "height": 1128.9852294921875
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Лампа",
+        "type": "GROUP",
+        "bounds": {
+          "x": -5090.7705078125,
+          "y": 5086.939453125,
+          "width": 945.9432373046875,
+          "height": 1128.9852294921875
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Кошелек",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3044.738037109375,
+          "y": 1719.10791015625,
+          "width": 630.41552734375,
+          "height": 396.309814453125
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Кошелек",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3044.738037109375,
+          "y": 5743.2919921875,
+          "width": 630.41552734375,
+          "height": 396.309814453125
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Ручка",
+        "type": "GROUP",
+        "bounds": {
+          "x": -5117.20361328125,
+          "y": 2751.6298828125,
+          "width": 508.42822265625,
+          "height": 285.4002380371094
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Ручка",
+        "type": "GROUP",
+        "bounds": {
+          "x": -5117.20361328125,
+          "y": 6775.814453125,
+          "width": 508.42822265625,
+          "height": 285.4002380371094
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Папка",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6547.7275390625,
+          "y": 2544.17626953125,
+          "width": 1240.61865234375,
+          "height": 658.5882568359375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Папка",
+        "type": "GROUP",
+        "bounds": {
+          "x": -6547.7275390625,
+          "y": 6568.3603515625,
+          "width": 1240.61865234375,
+          "height": 658.5882568359375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Монета",
+        "type": "GROUP",
+        "bounds": {
+          "x": -2907.6962890625,
+          "y": 569.818603515625,
+          "width": 286.6766662597656,
+          "height": 188.5005645751953
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Монета",
+        "type": "GROUP",
+        "bounds": {
+          "x": -2907.6962890625,
+          "y": 4594.0029296875,
+          "width": 286.6768798828125,
+          "height": 188.50100708007812
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Главные объекты",
+        "type": "TEXT",
+        "bounds": {
+          "x": -6679.873046875,
+          "y": -442.7353515625,
+          "width": 822,
+          "height": 116
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета фона",
+        "type": "TEXT",
+        "bounds": {
+          "x": -6664.025390625,
+          "y": -1475.4425048828125,
+          "width": 267,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета фона",
+        "type": "TEXT",
+        "bounds": {
+          "x": -5465.056640625,
+          "y": -1475.4425048828125,
+          "width": 267,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета фона",
+        "type": "TEXT",
+        "bounds": {
+          "x": -4262.20556640625,
+          "y": -1475.4425048828125,
+          "width": 267,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета объектов",
+        "type": "TEXT",
+        "bounds": {
+          "x": -6164.025390625,
+          "y": -1475.4425048828125,
+          "width": 369,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета объектов",
+        "type": "TEXT",
+        "bounds": {
+          "x": -4965.056640625,
+          "y": -1475.4425048828125,
+          "width": 369,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Цвета объектов",
+        "type": "TEXT",
+        "bounds": {
+          "x": -3762.20556640625,
+          "y": -1475.4425048828125,
+          "width": 369,
+          "height": 58
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фоновые объекты",
+        "type": "TEXT",
+        "bounds": {
+          "x": -6679.873046875,
+          "y": 3792.34375,
+          "width": 846,
+          "height": 116
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Group 2136136344",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3876.980224609375,
+          "y": 1336.71728515625,
+          "width": 590.5732421875,
+          "height": 747.1065063476562
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136347",
+        "type": "GROUP",
+        "bounds": {
+          "x": -3852.086181640625,
+          "y": 5421.6005859375,
+          "width": 590.5732421875,
+          "height": 747.10595703125
+        },
+        "colors": [],
+        "children": null
+      }
+    ]
+  },
+  {
+    "name": "Размер S",
+    "children": [
+      {
+        "name": "Group 2136136345",
+        "type": "GROUP",
+        "bounds": {
+          "x": 241.9129638671875,
+          "y": -427.41552734375,
+          "width": 323.2647399902344,
+          "height": 408.94677734375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136346",
+        "type": "GROUP",
+        "bounds": {
+          "x": 214.2703857421875,
+          "y": 2675.97998046875,
+          "width": 323.2647399902344,
+          "height": 408.94677734375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": -1390,
+          "y": -3200,
+          "width": 500,
+          "height": 500
+        },
+        "colors": [
+          "#D7CDF5"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": 148,
+          "y": -3200,
+          "width": 500,
+          "height": 500
+        },
+        "colors": [
+          "#BEEBEB"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фон",
+        "type": "FRAME",
+        "bounds": {
+          "x": -621,
+          "y": -3200,
+          "width": 500,
+          "height": 500
+        },
+        "colors": [
+          "#FDD7B9"
+        ],
+        "children": null
+      },
+      {
+        "name": "Group 2136136338",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1390,
+          "y": -2531.052490234375,
+          "width": 500,
+          "height": 316.416748046875
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "24:6125",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1390,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#D7CDF5"
+            ]
+          },
+          {
+            "id": "24:6126",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1140,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#F9ECB0"
+            ]
+          },
+          {
+            "id": "24:6127",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1390,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#AA9BF0"
+            ]
+          },
+          {
+            "id": "24:6128",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1140,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#F9A3AA"
+            ]
+          },
+          {
+            "id": "24:6129",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1390,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#7864D7"
+            ]
+          },
+          {
+            "id": "24:6130",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1140,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FFE3E1"
+            ]
+          },
+          {
+            "id": "24:6131",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1390,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "24:6132",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -1140,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Group 2136136339",
+        "type": "GROUP",
+        "bounds": {
+          "x": -621,
+          "y": -2531.052490234375,
+          "width": 500,
+          "height": 316.416748046875
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "24:6134",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -621,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FDD7B9"
+            ]
+          },
+          {
+            "id": "24:6135",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -371,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#F9ECB0"
+            ]
+          },
+          {
+            "id": "24:6136",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -621,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FAC896"
+            ]
+          },
+          {
+            "id": "24:6137",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -371,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#80DADA"
+            ]
+          },
+          {
+            "id": "24:6138",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -621,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#D27532"
+            ]
+          },
+          {
+            "id": "24:6139",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -371,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#BEEBEB"
+            ]
+          },
+          {
+            "id": "24:6140",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -621,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "24:6141",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": -371,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Group 2136136340",
+        "type": "GROUP",
+        "bounds": {
+          "x": 148,
+          "y": -2531.052490234375,
+          "width": 500,
+          "height": 316.416748046875
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "24:6143",
+            "name": "Rectangle 1",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 148,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#BEEBEB"
+            ]
+          },
+          {
+            "id": "24:6144",
+            "name": "Rectangle 4",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 398,
+              "y": -2531.052490234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FFD4F2"
+            ]
+          },
+          {
+            "id": "24:6145",
+            "name": "Rectangle 2",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 148,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#80DADA"
+            ]
+          },
+          {
+            "id": "24:6146",
+            "name": "Rectangle 5",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 398,
+              "y": -2451.9482421875,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#6D7BFC"
+            ]
+          },
+          {
+            "id": "24:6147",
+            "name": "Rectangle 3",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 148,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#5ABEBE"
+            ]
+          },
+          {
+            "id": "24:6148",
+            "name": "Rectangle 6",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 398,
+              "y": -2372.84423828125,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#B6C6FE"
+            ]
+          },
+          {
+            "id": "24:6149",
+            "name": "Rectangle 7",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 148,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#181817"
+            ]
+          },
+          {
+            "id": "24:6150",
+            "name": "Rectangle 8",
+            "type": "RECTANGLE",
+            "bounds": {
+              "x": 398,
+              "y": -2293.739990234375,
+              "width": 250,
+              "height": 79.10419464111328
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Group 2136136335",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1408.611328125,
+          "y": -1315.61083984375,
+          "width": 722.9462890625,
+          "height": 488.3321228027344
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "24:3811",
+            "name": "Vector",
+            "type": "VECTOR",
+            "bounds": {
+              "x": -895.40771484375,
+              "y": -1091.8026123046875,
+              "width": 8.484458923339844,
+              "height": 11.800084114074707
+            },
+            "colors": [
+              "#FFFFFF"
+            ]
+          },
+          {
+            "id": "24:3812",
+            "name": "Книга",
+            "type": "GROUP",
+            "bounds": {
+              "x": -1408.611328125,
+              "y": -1315.61083984375,
+              "width": 722.9462890625,
+              "height": 488.3321228027344
+            },
+            "colors": []
+          }
+        ]
+      },
+      {
+        "name": "Телефон",
+        "type": "GROUP",
+        "bounds": {
+          "x": -382.768798828125,
+          "y": -1122.835205078125,
+          "width": 398.2657470703125,
+          "height": 230.83363342285156
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Пазлы",
+        "type": "GROUP",
+        "bounds": {
+          "x": 248.3394775390625,
+          "y": -1091.884033203125,
+          "width": 272.08160400390625,
+          "height": 156.7671661376953
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Монета",
+        "type": "GROUP",
+        "bounds": {
+          "x": 821.228515625,
+          "y": -1036.199951171875,
+          "width": 152.39012145996094,
+          "height": 100.20225524902344
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Наушники",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1302.1414794921875,
+          "y": -440.018798828125,
+          "width": 444.074951171875,
+          "height": 345.770751953125
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Лампа",
+        "type": "GROUP",
+        "bounds": {
+          "x": -484.998046875,
+          "y": -557.7333984375,
+          "width": 472.9715881347656,
+          "height": 564.4925537109375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136337",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1415.729736328125,
+          "y": 365.49169921875,
+          "width": 620.3094482421875,
+          "height": 329.29412841796875
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136336",
+        "type": "GROUP",
+        "bounds": {
+          "x": -378.943603515625,
+          "y": 481.53564453125,
+          "width": 254.214111328125,
+          "height": 142.7001190185547
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Кошелек",
+        "type": "GROUP",
+        "bounds": {
+          "x": 722.5,
+          "y": -188.352783203125,
+          "width": 315.207763671875,
+          "height": 198.1549835205078
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136341",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1408.611328125,
+          "y": 1785.7958984375,
+          "width": 722.9462890625,
+          "height": 488.3321228027344
+        },
+        "colors": [],
+        "children": [
+          {
+            "id": "24:6935",
+            "name": "Vector",
+            "type": "VECTOR",
+            "bounds": {
+              "x": -895.40771484375,
+              "y": 2009.6041259765625,
+              "width": 8.484458923339844,
+              "height": 11.800084114074707
+            },
+            "colors": [
+              "#D7CDF5"
+            ]
+          },
+          {
+            "id": "24:6936",
+            "name": "Книга",
+            "type": "GROUP",
+            "bounds": {
+              "x": -1408.611328125,
+              "y": 1785.7958984375,
+              "width": 722.9462890625,
+              "height": 488.3321228027344
+            },
+            "colors": []
+          }
+        ]
+      },
+      {
+        "name": "Телефон",
+        "type": "GROUP",
+        "bounds": {
+          "x": -382.768798828125,
+          "y": 1978.57177734375,
+          "width": 398.2657470703125,
+          "height": 230.83363342285156
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Пазлы",
+        "type": "GROUP",
+        "bounds": {
+          "x": 248.3394775390625,
+          "y": 2009.5224609375,
+          "width": 272.08160400390625,
+          "height": 156.7671661376953
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Монета",
+        "type": "GROUP",
+        "bounds": {
+          "x": 821.228515625,
+          "y": 2065.20703125,
+          "width": 152.3905029296875,
+          "height": 100.20217895507812
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Наушники",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1302.1414794921875,
+          "y": 2661.3876953125,
+          "width": 444.074951171875,
+          "height": 345.770751953125
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Лампа",
+        "type": "GROUP",
+        "bounds": {
+          "x": -484.998046875,
+          "y": 2543.67333984375,
+          "width": 472.9715881347656,
+          "height": 564.4925537109375
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136342",
+        "type": "GROUP",
+        "bounds": {
+          "x": -1415.729736328125,
+          "y": 3466.8984375,
+          "width": 620.3094482421875,
+          "height": 329.29412841796875
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Group 2136136343",
+        "type": "GROUP",
+        "bounds": {
+          "x": -378.943603515625,
+          "y": 3582.9423828125,
+          "width": 254.214111328125,
+          "height": 142.7001190185547
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Кошелек",
+        "type": "GROUP",
+        "bounds": {
+          "x": 722.5,
+          "y": 2913.0537109375,
+          "width": 315.207763671875,
+          "height": 198.1549835205078
+        },
+        "colors": [],
+        "children": null
+      },
+      {
+        "name": "Главные объекты",
+        "type": "TEXT",
+        "bounds": {
+          "x": -1386.4398193359375,
+          "y": -1734.39990234375,
+          "width": 822,
+          "height": 116
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      },
+      {
+        "name": "Фоновые объекты",
+        "type": "TEXT",
+        "bounds": {
+          "x": -1386.4398193359375,
+          "y": 1311.06396484375,
+          "width": 846,
+          "height": 116
+        },
+        "colors": [
+          "#000000"
+        ],
+        "children": null
+      }
+    ]
+  }
+]
