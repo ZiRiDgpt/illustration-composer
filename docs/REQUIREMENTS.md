@@ -30,7 +30,7 @@
 ## Материалы для сдачи
 
 - Запускаемый проект и короткая демонстрация — manifest, готовый dist, инструкция запуска; запись действий в `demo/demo.mp4`.
-- Репозиторий исходного кода — [GitHub](https://github.com/ZiRiDgpt/illustration-composer), материалы передачи в HANDOFF.
+- Репозиторий исходного кода — [GitHub](https://github.com/ZiRiDgpt/illustration-composer), готовый проект и видео — в [Releases](https://github.com/ZiRiDgpt/illustration-composer/releases/latest).
 - Краткая архитектура: SVG-хранение, извлечение и перекраска — `ARCHITECTURE.md` и `SEMANTIC.md`.
 - Список AI-инструментов разработки — Codex; использование модели в продукте описано отдельно.
 - Два–три примера — три SVG в `examples/` и их рецепты.
